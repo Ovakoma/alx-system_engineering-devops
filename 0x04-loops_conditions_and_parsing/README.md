@@ -1,1 +1,1 @@
-Loops, Conditions and Parsing in bash script
+Loops, Conditions and Parsing in Bash Script

@@ -2,5 +2,5 @@
 #This script is displaying "Best School" 10 times
 str="Best School"
 for ((i=0; i < 10; i++)); do
-	echo $str
+	echo "$str"
 done
